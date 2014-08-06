@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "suggestList": [
+        {
+            "name": "sanjose 1"
+        },
+        {
+            "name": "fremont 1"
+        },
+        {
+            "name": "fremont 2"
+        },
+        {
+        	"name":"fremont 3"
+        }
+    ]
+}
+

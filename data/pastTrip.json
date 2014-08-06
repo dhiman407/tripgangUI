@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "pastTrips": [
+        {
+            "name": "YosemitePast",
+            "members": [],
+            "StartDate": "5/2/2015"
+        },
+        {
+            "name": "TahoePast",
+            "members": [],
+            "StartDate": "2/2/2015"
+        },
+        {
+            "name": "CratorPast",
+            "members": [],
+            "StartDate": "7/2/2015"
+        }
+    ]
+}
+
