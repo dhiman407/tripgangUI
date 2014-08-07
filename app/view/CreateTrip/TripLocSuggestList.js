@@ -3,11 +3,11 @@ Ext.define('tripgang.view.CreateTrip.TripLocSuggestList', {
     xtype: 'locSuggestList',
 	id:'locSuggestsList',
     config: {
-		store: 'LocSuggestList',
+		store: 'LocSuggestLists',
         emptyText: 'Loading list of Locations...',
         itemTpl: [
             '<div class="">',
-                '{name}, Fun Start at {startDate}',
+                '{name}',
             '</div>'
         ]
     }
