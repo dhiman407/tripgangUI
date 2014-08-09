@@ -19,14 +19,15 @@ Ext.define('tripgang.controller.Trip',{
 	},
 
 	searchLocations:function(txt, newVal, oldVal){
-		setTimeout(function(){
-			var val = txt.getValue();
+		var task = Ext.create('Ext.util.DelayedTask', function () {
+        var val = txt.getValue();
 			var service = new google.maps.places.PlacesService(document.getElementById("canvas"));
 			service.textSearch({query:val}, function(result,status){
 				Ext.data.StoreManager.lookup("LocSuggestLists").setData(result);
 			});
-		},500);
-		
+        
+    });
+	task.delay(500);
 	}
 
 });

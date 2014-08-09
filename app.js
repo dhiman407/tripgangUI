@@ -14,7 +14,8 @@ Ext.application({
     name: 'tripgang',
 
     requires: [
-        'Ext.MessageBox'
+        'Ext.MessageBox',
+        'Ext.util.DelayedTask'
     ],
 
 	models:[
