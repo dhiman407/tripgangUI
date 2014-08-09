@@ -8,8 +8,8 @@ Ext.define('tripgang.store.LocSuggestLists', {
             type: 'ajax',
             url: TG.global.baseURL + 'data/suggestList.json',
 			reader: {
-				type: 'json',
-				rootProperty: 'suggestList'
+				type: 'json'
+		
 			}
         }
     }

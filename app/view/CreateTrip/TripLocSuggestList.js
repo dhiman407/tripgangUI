@@ -7,7 +7,7 @@ Ext.define('tripgang.view.CreateTrip.TripLocSuggestList', {
         emptyText: 'Loading list of Locations...',
         itemTpl: [
             '<div class="">',
-                '{name}',
+                '{formatted_address}',
             '</div>'
         ]
     }

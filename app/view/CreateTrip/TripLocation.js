@@ -3,6 +3,7 @@ Ext.define('tripgang.view.CreateTrip.TripLocation', {
     xtype: 'tripLocation',
     requires: [
 		'tripgang.view.CreateTrip.TripLocSuggestList',
+		'Ext.form.Panel'
     ],
     config: {
         layout:'fit',
@@ -10,12 +11,22 @@ Ext.define('tripgang.view.CreateTrip.TripLocation', {
         items: [
            {
 		   	 layout:'vbox',
+		   	 align:'center',
 			 items:[
 			 	{
-					 xtype: 'map',
-   					 useCurrentLocation: true,
-					 flex:2
-				},{
+			 		xtype:'formpanel',
+			 		flex:0.1,
+			 		items:[{
+			 				xtype:'textfield',
+			 				align:'center',
+			 				width:200,
+			 				itemId:'location_search_txt'
+			 		
+			 			}]
+			 		
+			 		
+			 	},
+			 	{
 					xtype:'locSuggestList',
 					flex:1
 				}
