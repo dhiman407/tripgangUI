@@ -9,7 +9,7 @@ Ext.define('tripgang.controller.Trip',{
 				itemtap:'onTripTypeTap'
 			},
 			'tripLocation #location_search_txt':{
-				change:'searchLocations'
+				keyup:'searchLocations'
 			}
 		}
 	},
@@ -19,12 +19,14 @@ Ext.define('tripgang.controller.Trip',{
 	},
 
 	searchLocations:function(txt, newVal, oldVal){
-
-		var service = new google.maps.places.PlacesService(document.getElementById("canvas"));
-		service.textSearch({query:newVal}, function(result,status){
-			Ext.data.StoreManager.lookup("LocSuggestLists").loadData(result);
-		});
-		//Ext.data.StoreManager.lookup("LocSuggestLists").load();
+		setTimeout(function(){
+			var val = txt.getValue();
+			var service = new google.maps.places.PlacesService(document.getElementById("canvas"));
+			service.textSearch({query:val}, function(result,status){
+				Ext.data.StoreManager.lookup("LocSuggestLists").setData(result);
+			});
+		},500);
+		
 	}
 
 });
