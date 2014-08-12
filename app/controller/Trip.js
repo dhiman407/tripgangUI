@@ -13,6 +13,10 @@ Ext.define('tripgang.controller.Trip',{
 			}
 		}
 	},
+
+	app_state: {
+
+	},
 	
 	onTripTypeTap:function(list,idx,target,record,e,eOpts){
 		this.getMainScreen().setActiveItem(2);

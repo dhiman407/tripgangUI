@@ -6,8 +6,8 @@ Ext.define('tripgang.view.CreateTrip.TripType', {
 		store: 'TripTypes',
         emptyText: 'Loading list of Type of Trips...',
         itemTpl: [
-            '<div class="legislator-list-item">',
-                '{name}, Fun Start at {startDate}',
+            '<div class="trip-type-item">',
+                '{name}',
             '</div>'
         ]
     }
