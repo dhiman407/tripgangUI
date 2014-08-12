@@ -2,7 +2,9 @@ Ext.define('tripgang.controller.Trip',{
 	extend:'Ext.app.Controller',
 	config:{
 		refs:{
-			mainScreen:'main'
+			mainScreen:'main',
+			suggestList:'locSuggestList',
+			tripContainer:'tripLocation'
 		},
 		control:{
 			tripType:{
@@ -23,10 +25,12 @@ Ext.define('tripgang.controller.Trip',{
 	},
 
 	searchLocations:function(txt, newVal, oldVal){
+		var that = this;
 		var task = Ext.create('Ext.util.DelayedTask', function () {
         var val = txt.getValue();
 			var service = new google.maps.places.PlacesService(document.getElementById("canvas"));
 			service.textSearch({query:val}, function(result,status){
+				that.getSuggestList().setHidden(false);
 				Ext.data.StoreManager.lookup("LocSuggestLists").setData(result);
 			});
         
