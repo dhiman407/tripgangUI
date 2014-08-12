@@ -1,0 +1,22 @@
+{
+    "success": true,
+    "results": [
+        {
+            "name": "Camping",
+            "auto_suggest_types": "campground"
+        },
+        {
+            "name": "Road Trip",
+            "auto_suggest_types": "all"
+        },
+        {
+            "name": "Sailing",
+            "auto_suggest_types": "sea, sailing"
+        },
+        {
+            "name": "Picnic",
+            "auto_suggest_types": "picnic"
+        }
+    ]
+}
+
