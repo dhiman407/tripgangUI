@@ -3,23 +3,19 @@
     "results": [
         {
             "name": "Camping",
-            "auto_suggest_params": "campground",
-            "image_data": ""
+            "auto_suggest_params": "campground"
         },
         {
             "name": "Road Trip",
-            "auto_suggest_params": "all",
-            "image_data": ""
+            "auto_suggest_params": "all"
         },
         {
             "name": "Sailing",
-            "auto_suggest_params": "sea, sailing",
-            "image_data": ""
+            "auto_suggest_params": "sea, sailing"
         },
         {
             "name": "Picnic",
-            "auto_suggest_params": "picnic",
-            "image_data": ""
+            "auto_suggest_params": "picnic"
         }
     ]
 }
