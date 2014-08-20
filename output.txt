@@ -251,7 +251,7 @@ Sencha Cmd v5.0.0.160
 [DBG] Initial Ant Value => cmd.merge.tool.args.p4merge : {base} {user} {generated} {out}
 [DBG] Initial Ant Value => ant.project.invoked-targets : build
 [DBG] Initial Ant Value => ant.file : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build.xml
-[DBG] Initial Ant Value => java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;.
+[DBG] Initial Ant Value => java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\;.
 [DBG] Initial Ant Value => templates.dir : C:\Sencha\Cmd\5.0.0.160\plugins\touch\2.3\templates
 [DBG] Initial Ant Value => file.separator : \
 [DBG] Initial Ant Value => app.cmd.version : 5.0.0.160
@@ -421,7 +421,7 @@ Sencha Cmd v5.0.0.160
 [DBG] New Config Value  => cmd.merge.tool.args.araxis : -wait -merge -3 -a1 {base} {user} {generated} {out}
 [DBG] New Config Value  => ant.project.invoked-targets : build
 [DBG] New Config Value  => templates.dir : C:\Sencha\Cmd\5.0.0.160\plugins\touch\2.3\templates
-[DBG] New Config Value  => java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;.
+[DBG] New Config Value  => java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\;.
 [DBG] New Config Value  => ant.file : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build.xml
 [DBG] New Config Value  => file.separator : \
 [DBG] New Config Value  => app.cmd.version : 5.0.0.160
@@ -540,7 +540,7 @@ Sencha Cmd v5.0.0.160
 [DBG] loading ant prop app.example.css : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/build/temp/native/tripgang/slicer-temp/tripgang-example.css
 [DBG] loading ant prop framework.version : 2.3.1.410
 [DBG] loading ant prop app.example.compass.config : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/build/temp/native/tripgang/slicer-temp/config.rb
-[DBG] loading ant prop java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;.
+[DBG] loading ant prop java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\;.
 [DBG] loading ant prop build.options.logger.disable : logger:no
 [DBG] loading ant prop framework.name : touch
 [DBG] loading ant prop java.vm.specification.version : 1.7
@@ -5267,9 +5267,7 @@ Sencha Cmd v5.0.0.160
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\PastTrip.js
-[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 object initializer => 	}   ) -- C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\PastTrip.js:6:2
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
-[WRN] C1000: Rhino Parse Warning (Trailing comma is not legal in an ECMA-262 object initializer => 	}   ) -- C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js:6:2
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\LocSuggestLists.js
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\PastTrips.js
 [INF] accumulating symbols for file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\TripTypes.js
@@ -5301,8 +5299,8 @@ Sencha Cmd v5.0.0.160
 [DBG] Setting direct ref Ext.data.Validations to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Adding implicit dependency from class Ext.data.Model on name Ext.data.Validations to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Detected Instantiation function call ExtCreateCall
-[DBG] Detected lazy instantiation reference to tripgang.view.login.LoginMain in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
-[DBG] Adding dynamic requirement on tripgang.view.login.LoginMain to app.js as a ExtCreateCall
+[DBG] Detected lazy instantiation reference to tripgang.view.Main in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
+[DBG] Adding dynamic requirement on tripgang.view.Main to app.js as a ExtCreateCall
 [DBG] Detected active instantiation reference to Ext.viewport.Viewport in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Adding dynamic requirement on Ext.viewport.Viewport to app.js as a Auto
 [DBG] Adding implicit dependency from class tripgang.controller.Trip on name tripgang.controller.Trip to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
@@ -5687,10 +5685,29 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\DelayedTask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Ios.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Default.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Android.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\WindowsPhone.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
@@ -5731,26 +5748,6 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\Runner.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\CssTransition.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\Css.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [INF] Concatenating output to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/build/temp/native/tripgang/sencha-compiler/cmd-packages.js
 [WRN] adding ignore src\locale
 [WRN] adding ignore auth2\Auth.js
@@ -9678,8 +9675,8 @@ Sencha Cmd v5.0.0.160
 [DBG] Setting direct ref Ext.data.Validations to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Adding implicit dependency from class Ext.data.Model on name Ext.data.Validations to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Detected Instantiation function call ExtCreateCall
-[DBG] Detected lazy instantiation reference to tripgang.view.login.LoginMain in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
-[DBG] Adding dynamic requirement on tripgang.view.login.LoginMain to app.js as a ExtCreateCall
+[DBG] Detected lazy instantiation reference to tripgang.view.Main in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
+[DBG] Adding dynamic requirement on tripgang.view.Main to app.js as a ExtCreateCall
 [DBG] Detected active instantiation reference to Ext.viewport.Viewport in file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 [DBG] Adding dynamic requirement on Ext.viewport.Viewport to app.js as a Auto
 [DBG] Adding implicit dependency from class tripgang.controller.Trip on name tripgang.controller.Trip to file C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
@@ -10066,10 +10063,29 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\DelayedTask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Ios.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Default.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Android.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\WindowsPhone.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
@@ -10110,26 +10126,6 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\Runner.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\CssTransition.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\Css.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [DBG] loading cache filters
 [DBG] filtering source files for scope C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build\temp\native\tripgang\sencha-compiler\app
 [DBG] Enabling transitive dependencies
@@ -10320,10 +10316,29 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\DelayedTask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Ios.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Default.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Android.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\WindowsPhone.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
@@ -10364,26 +10379,6 @@ Sencha Cmd v5.0.0.160
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\Runner.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\CssTransition.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\Css.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [INF] 
 [INF] -detect-app-build-properties:
 [INF] 
@@ -10883,13 +10878,13 @@ C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\event\D
 [DBG] Processing dependencies for file: app.js
 [DBG] Processing dependencies for file: TripType.js
 [DBG] Processing dependencies for file: LocSuggestList.js
-[DBG] Processing dependencies for file: Trip.js
-[DBG] Processing dependencies for file: TripTypes.js
-[DBG] Processing dependencies for file: LocSuggestLists.js
 [DBG] Processing dependencies for file: Main.js
 [DBG] Processing dependencies for file: TripType.js
 [DBG] Processing dependencies for file: TripLocation.js
 [DBG] Processing dependencies for file: TripLocSuggestList.js
+[DBG] Processing dependencies for file: Trip.js
+[DBG] Processing dependencies for file: TripTypes.js
+[DBG] Processing dependencies for file: LocSuggestLists.js
 [DBG] Processing dependencies for file: PastTrip.js
 [DBG] Processing dependencies for file: PastTrips.js
 [DBG] Processing dependencies for file: LoginMain.js
@@ -11376,13 +11371,13 @@ C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewpor
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
-C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
-C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\TripTypes.js
-C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\LocSuggestLists.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
+C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\TripTypes.js
+C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\LocSuggestLists.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\PastTrip.js
 C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\PastTrips.js
@@ -15885,10 +15880,29 @@ C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build\temp\native
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\DelayedTask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Ios.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Default.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Android.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\WindowsPhone.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
@@ -15929,26 +15943,6 @@ C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build\temp\native
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\Runner.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\CssTransition.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\Css.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [INF] 
 [INF] -detect-app-build-properties:
 [INF] 
@@ -16683,15 +16677,14 @@ C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build\temp\native
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
-[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
-[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\TripTypes.js
-[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\LocSuggestLists.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
+[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\TripTypes.js
+[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\store\LocSuggestLists.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app.js
-[DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [DBG] Concat file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\build\temp\native\tripgang\sencha-compiler\app\full-page-master-bundle.js
 [INF] Compressing data with YuiJavascriptCompressor
 [DBG] Load url is file:/C:/Sencha/Cmd/5.0.0.160/lib/yuicompressor-2.4.7.jar
@@ -16970,10 +16963,29 @@ identical ../css/app.css
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\DelayedTask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\TripType.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\model\LocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
+[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Viewport.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Ios.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Default.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\LoadMask.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\Android.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\viewport\WindowsPhone.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\controller\Trip.js
@@ -17014,26 +17026,6 @@ identical ../css/app.css
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\Runner.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\CssTransition.js
 [DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\fx\runner\Css.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\Main.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\TitleBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripType.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\List.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\DataView.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\mixin\Selectable.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\DataItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\element\Container.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\IndexBar.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\ListItemHeader.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\ListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\dataview\component\SimpleListItem.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\util\PositionMap.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocation.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\CreateTrip\TripLocSuggestList.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\form\Panel.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\field\Checkbox.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\touch\src\direct\Manager.js
-[DBG] Enabling transitive dependencies for C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\app\view\login\LoginMain.js
 [INF] 
 [INF] -detect-app-build-properties:
 [INF] 
@@ -17100,7 +17092,7 @@ identical ../css/app.css
 [DBG] loading ant prop build.capture.png : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/build/temp/native/tripgang/slicer-temp/theme-capture.png
 [DBG] loading ant prop app.microloader.dir : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\.sencha\app/microloader
 [DBG] loading ant prop ant.file.type.resources-impl : file
-[DBG] loading ant prop java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;.
+[DBG] loading ant prop java.library.path : C:\WINDOWS\SYSTEM32;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Sencha\Cmd\5.0.0.160;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Sony\VAIO Improvement;C:\Program Files (x86)\Sony\VAIO BIOS Data Transfer Utility\;C:\Program Files (x86)\Sony\VAIO Startup Setting Tool;c:\Program Files\TortoiseSVN\bin;C:\python27;C:\python27\scripts;C:\Program Files\MySQL\MySQL Server 5.5\bin;;C:\Python27;C:\Python27\Scripts;C:\Program Files (x86)\GnuWin32\bin;C:\Program Files\Dataguise\DgSecure\dgcl;C:\Program Files\nodejs\;C:\Program Files\Java\jdk1.7.0_45\bin;C:\Ruby193\bin;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Program Files (x86)\Nmap;C:\Users\Hemant\AppData\Roaming\npm;C:\Users\Hemant\Desktop\androidsdk\sdk\tools;C:\Users\Hemant\Desktop\androidsdk\sdk\platform-tools;C:\apache-ant-1.9.4\bin;C:\Program Files (x86)\EaseUS\Todo Backup\bin\x64\;.
 [DBG] loading ant prop build.embedded.microloader.tpl : <script type="text/javascript">{0}</script>
 [DBG] loading ant prop compass.compile.boring : false
 [DBG] loading ant prop ant.file.watch-impl : C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\.sencha\app\watch-impl.xml
@@ -17393,7 +17385,7 @@ identical ../css/app.css
 [DBG] Minifying C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/phonegap/www/microloader.js to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/phonegap/www/microloader.js using yui
 [DBG] Load url is file:/C:/Sencha/Cmd/5.0.0.160/lib/yuicompressor-2.4.7.jar
 [INF] Building output markup to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI/phonegap/www/index.html
-[DBG] Replacing <script id="microloader" type="text/javascript" src=".sencha/app/microloader/development.js"></script> with <script type="text/javascript">(function(e){var c=e.document.head||e.document.getElementsByTagName("head")[0],b=e.Ext;if(typeof b=="undefined"){e.Ext=b={}}function d(f){document.write(f)}function a(f,g){var h=document.createElement("meta");h.setAttribute("name",f);h.setAttribute("content",g);c.appendChild(h)}b.blink=function(q){var k=q.js||[],o=q.css||[],m,n,p,h,l,g;if(navigator.userAgent.match(/IEMobile\/10\.0/)){var j=document.createElement("style");j.appendChild(document.createTextNode("@media screen and (orientation: portrait) {@-ms-viewport {width: 320px !important;}}@media screen and (orientation: landscape) {@-ms-viewport {width: 560px !important;}}"));document.getElementsByTagName("head")[0].appendChild(j)}a("viewport","width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no");a("apple-mobile-web-app-capable","yes");a("apple-touch-fullscreen","yes");b.microloaded=true;var f=window.Ext.filterPlatform=function(u){var D=false,s=navigator.userAgent,w,A;u=[].concat(u);function z(E){var i=/Mobile(\/|\s)/.test(E);return/(iPhone|iPod)/.test(E)||(!/(Silk)/.test(E)&&(/(Android)/.test(E)&&(/(Android 2)/.test(E)||i)))||(/(BlackBerry|BB)/.test(E)&&i)||/(Windows Phone)/.test(E)}function y(i){return !z(i)&&(/iPad/.test(i)||/Android|Silk/.test(i)||/(RIM Tablet OS)/.test(i)||(/MSIE 10/.test(i)&&/; Touch/.test(i)))}var r=window.location.search.substr(1),t=r.split("&"),v={},B,x;for(x=0;x<t.length;x++){var C=t[x].split("=");v[C[0]]=C[1]}B=v.platform;if(B){return u.indexOf(B)!=-1}for(w=0,A=u.length;w<A;w++){switch(u[w]){case"phone":D=z(s);break;case"tablet":D=y(s);break;case"desktop":D=!z(s)&&!y(s);break;case"ios":D=/(iPad|iPhone|iPod)/.test(s);break;case"android":D=/(Android|Silk)/.test(s);break;case"blackberry":D=/(BlackBerry|BB)/.test(s);break;case"safari":D=/Safari/.test(s)&&!(/(BlackBerry|BB)/.test(s));break;case"chrome":D=/Chrome/.test(s);break;case"ie10":D=/MSIE 10/.test(s);break;case"windows":D=/MSIE 10/.test(s)||/Trident/.test(s);break;case"tizen":D=/Tizen/.test(s);break;case"firefox":D=/Firefox/.test(s)}if(D){return true}}return false};for(m=0,n=o.length;m<n;m++){p=o[m];if(typeof p!="string"){h=p.platform;g=p.exclude;l=p.theme;p=p.path}if(h){if(!f(h)||f(g)){continue}if(!b.theme){b.theme={}}if(!b.theme.name){b.theme.name=l||"Default"}}d('<link rel="stylesheet" href="'+p+'">')}for(m=0,n=k.length;m<n;m++){p=k[m];if(typeof p!="string"){h=p.platform;g=p.exclude;p=p.path}if(h){if(!f(h)||f(g)){continue}}d('<script src="'+p+'"><\/script>')}}})(this);Ext.blink({id:"a475dded-7dea-44ea-bbfe-825505f83e80",js:[{path:"phonegap.js",remote:true},{path:"app.js",update:"delta"}],css:[{path:"resources/css/app.css",update:"delta"},{path:"touch/resources/css/cupertino.css",update:"delta",theme:"Cupertino",platform:["ios"]}]});</script>
+[DBG] Replacing <script id="microloader" type="text/javascript" src=".sencha/app/microloader/development.js"></script> with <script type="text/javascript">(function(e){var c=e.document.head||e.document.getElementsByTagName("head")[0],b=e.Ext;if(typeof b=="undefined"){e.Ext=b={}}function d(f){document.write(f)}function a(f,g){var h=document.createElement("meta");h.setAttribute("name",f);h.setAttribute("content",g);c.appendChild(h)}b.blink=function(q){var k=q.js||[],o=q.css||[],m,n,p,h,l,g;if(navigator.userAgent.match(/IEMobile\/10\.0/)){var j=document.createElement("style");j.appendChild(document.createTextNode("@media screen and (orientation: portrait) {@-ms-viewport {width: 320px !important;}}@media screen and (orientation: landscape) {@-ms-viewport {width: 560px !important;}}"));document.getElementsByTagName("head")[0].appendChild(j)}a("viewport","width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no");a("apple-mobile-web-app-capable","yes");a("apple-touch-fullscreen","yes");b.microloaded=true;var f=window.Ext.filterPlatform=function(u){var D=false,s=navigator.userAgent,w,A;u=[].concat(u);function z(E){var i=/Mobile(\/|\s)/.test(E);return/(iPhone|iPod)/.test(E)||(!/(Silk)/.test(E)&&(/(Android)/.test(E)&&(/(Android 2)/.test(E)||i)))||(/(BlackBerry|BB)/.test(E)&&i)||/(Windows Phone)/.test(E)}function y(i){return !z(i)&&(/iPad/.test(i)||/Android|Silk/.test(i)||/(RIM Tablet OS)/.test(i)||(/MSIE 10/.test(i)&&/; Touch/.test(i)))}var r=window.location.search.substr(1),t=r.split("&"),v={},B,x;for(x=0;x<t.length;x++){var C=t[x].split("=");v[C[0]]=C[1]}B=v.platform;if(B){return u.indexOf(B)!=-1}for(w=0,A=u.length;w<A;w++){switch(u[w]){case"phone":D=z(s);break;case"tablet":D=y(s);break;case"desktop":D=!z(s)&&!y(s);break;case"ios":D=/(iPad|iPhone|iPod)/.test(s);break;case"android":D=/(Android|Silk)/.test(s);break;case"blackberry":D=/(BlackBerry|BB)/.test(s);break;case"safari":D=/Safari/.test(s)&&!(/(BlackBerry|BB)/.test(s));break;case"chrome":D=/Chrome/.test(s);break;case"ie10":D=/MSIE 10/.test(s);break;case"windows":D=/MSIE 10/.test(s)||/Trident/.test(s);break;case"tizen":D=/Tizen/.test(s);break;case"firefox":D=/Firefox/.test(s)}if(D){return true}}return false};for(m=0,n=o.length;m<n;m++){p=o[m];if(typeof p!="string"){h=p.platform;g=p.exclude;l=p.theme;p=p.path}if(h){if(!f(h)||f(g)){continue}if(!b.theme){b.theme={}}if(!b.theme.name){b.theme.name=l||"Default"}}d('<link rel="stylesheet" href="'+p+'">')}for(m=0,n=k.length;m<n;m++){p=k[m];if(typeof p!="string"){h=p.platform;g=p.exclude;p=p.path}if(h){if(!f(h)||f(g)){continue}}d('<script src="'+p+'"><\/script>')}}})(this);Ext.blink({id:"a475dded-7dea-44ea-bbfe-825505f83e80",js:[{path:"app.js",update:"delta"}],css:[{path:"resources/css/app.css",update:"delta"},{path:"touch/resources/css/cupertino.css",update:"delta",theme:"Cupertino",platform:["ios"]}]});</script>
 [INF]    [delete] Deleting: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\www\microloader.js
 [INF] 
 [INF] -generate-cache-manifest:
@@ -17535,234 +17527,6 @@ identical ../css/app.css
 [INF] [shellscript] [gettarget] API level:        19
 [INF] [shellscript]      [echo] ----------
 [INF] [shellscript]      [echo] Creating output directories if needed...
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\rsObj
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\rsLibs
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Resolving Dependencies for CordovaLib...
-[INF] [shellscript] [dependency] Library dependencies:
-[INF] [shellscript] [dependency] No Libraries
-[INF] [shellscript] [dependency] 
-[INF] [shellscript] [dependency] ------------------
-[INF] [shellscript] 
-[INF] [shellscript] -code-gen:
-[INF] [shellscript] [mergemanifest] Found Deleted Target File
-[INF] [shellscript] [mergemanifest] Merging AndroidManifest files into one.
-[INF] [shellscript] [mergemanifest] Manifest merger disabled. Using project manifest only.
-[INF] [shellscript]      [echo] Handling aidl files...
-[INF] [shellscript]      [aidl] No AIDL files to compile.
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling RenderScript files...
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling Resources...
-[INF] [shellscript]      [aapt] Found new input file
-[INF] [shellscript]      [aapt] Generating resource IDs...
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling BuildConfig class...
-[INF] [shellscript] [buildconfig] Generating BuildConfig class.
-[INF] [shellscript] 
-[INF] [shellscript] -pre-compile:
-[INF] [shellscript] 
-[INF] [shellscript] -compile:
-[INF] [shellscript]     [javac] Compiling 90 source files to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes
-[INF] [shellscript]     [javac] Note: Some input files use or override a deprecated API.
-[INF] [shellscript]     [javac] Note: Recompile with -Xlint:deprecation for details.
-[INF] [shellscript]      [echo] Creating library output jar file...
-[INF] [shellscript]       [jar] Building jar: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
-[INF] [shellscript] 
-[INF] [shellscript] -post-compile:
-[INF] [shellscript] 
-[INF] [shellscript] -obfuscate:
-[INF] [shellscript] 
-[INF] [shellscript] -dex:
-[INF] [shellscript]      [echo] Library project: do not convert bytecode...
-[INF] [shellscript] 
-[INF] [shellscript] -crunch:
-[INF] [shellscript]    [crunch] Crunching PNG Files in source dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\res
-[INF] [shellscript]    [crunch] To destination dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\res
-[INF] [shellscript]    [crunch] Crunched 0 PNG files to update cache
-[INF] [shellscript] 
-[INF] [shellscript] -package-resources:
-[INF] [shellscript]      [echo] Library project: do not package resources...
-[INF] [shellscript] 
-[INF] [shellscript] -package:
-[INF] [shellscript]      [echo] Library project: do not package apk...
-[INF] [shellscript] 
-[INF] [shellscript] -post-package:
-[INF] [shellscript] 
-[INF] [shellscript] -do-debug:
-[INF] [shellscript]      [echo] Library project: do not create apk...
-[INF] [shellscript] [propertyfile] Creating new property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
-[INF] [shellscript] 
-[INF] [shellscript] -post-build:
-[INF] [shellscript] 
-[INF] [shellscript] debug:
-[INF] [shellscript] 
-[INF] [shellscript] -code-gen:
-[INF] [shellscript] [mergemanifest] Merging AndroidManifest files into one.
-[INF] [shellscript] [mergemanifest] Manifest merger disabled. Using project manifest only.
-[INF] [shellscript]      [echo] Handling aidl files...
-[INF] [shellscript]      [aidl] No AIDL files to compile.
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling RenderScript files...
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling Resources...
-[INF] [shellscript]      [aapt] Generating resource IDs...
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Handling BuildConfig class...
-[INF] [shellscript] [buildconfig] Generating BuildConfig class.
-[INF] [shellscript] 
-[INF] [shellscript] -pre-compile:
-[INF] [shellscript]      [echo] Set jars path to: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
-[INF] [shellscript] 
-[INF] [shellscript] -compile:
-[INF] [shellscript]     [javac] Compiling 3 source files to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes
-[INF] [shellscript] 
-[INF] [shellscript] -post-compile:
-[INF] [shellscript] 
-[INF] [shellscript] -obfuscate:
-[INF] [shellscript] 
-[INF] [shellscript] -dex:
-[INF] [shellscript]       [dex] input: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes
-[INF] [shellscript]       [dex] input: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
-[INF] [shellscript]       [dex] Pre-Dexing C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar -> classes-f2b3c2a879a47fa36da6cadbad011dfe.jar
-[INF] [shellscript]       [dex] Converting compiled files and external libraries into C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes.dex...
-[INF] [shellscript]        [dx] Merged dex A (7 defs/2.2KiB) with dex B (207 defs/313.9KiB). Result is 214 defs/385.0KiB. Took 0.2s
-[INF] [shellscript] 
-[INF] [shellscript] -crunch:
-[INF] [shellscript]    [crunch] Crunching PNG Files in source dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res
-[INF] [shellscript]    [crunch] To destination dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-hdpi\icon.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-hdpi\icon.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-hdpi\icon.png: 67% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-land-hdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-hdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-hdpi\screen.png: 97% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-land-ldpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-ldpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-ldpi\screen.png: 96% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-land-mdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-mdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-mdpi\screen.png: 97% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-land-xhdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-land-xhdpi\screen.png: 99% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-ldpi\icon.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-ldpi\icon.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-ldpi\icon.png: 0% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-mdpi\icon.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-mdpi\icon.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-mdpi\icon.png: 0% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-port-hdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-hdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-hdpi\screen.png: 97% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-port-ldpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-ldpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-ldpi\screen.png: 97% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-port-mdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-mdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-mdpi\screen.png: 99% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-port-xhdpi\screen.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-port-xhdpi\screen.png: 99% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable-xhdpi\icon.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-xhdpi\icon.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable-xhdpi\icon.png: 53% size of source)
-[INF] [shellscript]    [crunch] Processing image to cache: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res\drawable\icon.png => C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable\icon.png
-[INF] [shellscript]    [crunch]   (processed image to cache entry C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res\drawable\icon.png: 53% size of source)
-[INF] [shellscript]    [crunch] Crunched 13 PNG files to update cache
-[INF] [shellscript] 
-[INF] [shellscript] -package-resources:
-[INF] [shellscript]      [aapt] Creating full resource package...
-[INF] [shellscript]      [aapt]     (skipping file '''.pgbomit''' due to ANDROID_AAPT_IGNORE pattern '''.*''')
-[INF] [shellscript] 
-[INF] [shellscript] -package:
-[INF] [shellscript] [apkbuilder] Current build type is different than previous build: forced apkbuilder run.
-[INF] [shellscript] [apkbuilder] Creating tripgang-debug-unaligned.apk and signing it with a debug key...
-[INF] [shellscript] 
-[INF] [shellscript] -post-package:
-[INF] [shellscript] 
-[INF] [shellscript] -do-debug:
-[INF] [shellscript]  [zipalign] Running zip align on final apk...
-[INF] [shellscript]      [echo] Debug Package: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\tripgang-debug.apk
-[INF] [shellscript] [propertyfile] Creating new property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
-[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
-[INF] [shellscript] 
-[INF] [shellscript] -post-build:
-[INF] [shellscript]      [move] Moving 1 file to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build
-[INF] [shellscript]      [move] Moving 1 file to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build
-[INF] [shellscript] 
-[INF] [shellscript] debug:
-[INF] [shellscript] 
-[INF] [shellscript] BUILD SUCCESSFUL
-[INF] [shellscript] Total time: 40 seconds
-[INF] [shellscript] [phonegap] successfully compiled Android app
-[INF] [shellscript] [phonegap] trying to install app onto device
-[INF] [shellscript] cp: no such file or directory: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\icon.png
-[INF] [shellscript] 
-[INF] [shellscript] cp: no such file or directory: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\res\icon\ios\icon-72.png
-[INF] [shellscript] 
-[INF] [shellscript] Buildfile: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\build.xml
-[INF] [shellscript] 
-[INF] [shellscript] -set-mode-check:
-[INF] [shellscript] 
-[INF] [shellscript] -set-debug-files:
-[INF] [shellscript] 
-[INF] [shellscript] -check-env:
-[INF] [shellscript]  [checkenv] Android SDK Tools Revision 23.0.2
-[INF] [shellscript]  [checkenv] Installed at C:\Users\Hemant\Desktop\androidsdk\sdk
-[INF] [shellscript] 
-[INF] [shellscript] -setup:
-[INF] [shellscript]      [echo] Project Name: tripgang
-[INF] [shellscript]   [gettype] Project Type: Application
-[INF] [shellscript] 
-[INF] [shellscript] -set-debug-mode:
-[INF] [shellscript] 
-[INF] [shellscript] -debug-obfuscation-check:
-[INF] [shellscript] 
-[INF] [shellscript] -pre-build:
-[INF] [shellscript] 
-[INF] [shellscript] -build-setup:
-[INF] [shellscript] [getbuildtools] Using latest Build Tools: 20.0.0
-[INF] [shellscript]      [echo] Resolving Build Target for tripgang...
-[INF] [shellscript] [gettarget] Project Target:   Android 4.4.2
-[INF] [shellscript] [gettarget] API level:        19
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Creating output directories if needed...
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\rsObj
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\rsLibs
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Resolving Dependencies for tripgang...
-[INF] [shellscript] [dependency] Library dependencies:
-[INF] [shellscript] [dependency] 
-[INF] [shellscript] [dependency] ------------------
-[INF] [shellscript] [dependency] Ordered libraries:
-[INF] [shellscript] [dependency] 
-[INF] [shellscript] [dependency] ------------------
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Building Libraries with '''debug'''...
-[INF] [shellscript] 
-[INF] [shellscript] nodeps:
-[INF] [shellscript] 
-[INF] [shellscript] -set-mode-check:
-[INF] [shellscript] 
-[INF] [shellscript] -set-debug-files:
-[INF] [shellscript] 
-[INF] [shellscript] -check-env:
-[INF] [shellscript]  [checkenv] Android SDK Tools Revision 23.0.2
-[INF] [shellscript]  [checkenv] Installed at C:\Users\Hemant\Desktop\androidsdk\sdk
-[INF] [shellscript] 
-[INF] [shellscript] -setup:
-[INF] [shellscript]      [echo] Project Name: CordovaLib
-[INF] [shellscript]   [gettype] Project Type: Android Library
-[INF] [shellscript] 
-[INF] [shellscript] -set-debug-mode:
-[INF] [shellscript] 
-[INF] [shellscript] -debug-obfuscation-check:
-[INF] [shellscript] 
-[INF] [shellscript] -pre-build:
-[INF] [shellscript] 
-[INF] [shellscript] -build-setup:
-[INF] [shellscript] [getbuildtools] Using latest Build Tools: 20.0.0
-[INF] [shellscript]      [echo] Resolving Build Target for CordovaLib...
-[INF] [shellscript] [gettarget] Project Target:   Android 4.4.2
-[INF] [shellscript] [gettarget] API level:        19
-[INF] [shellscript]      [echo] ----------
-[INF] [shellscript]      [echo] Creating output directories if needed...
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\rsObj
-[INF] [shellscript]     [mkdir] Created dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\rsLibs
 [INF] [shellscript]      [echo] ----------
 [INF] [shellscript]      [echo] Resolving Dependencies for CordovaLib...
 [INF] [shellscript] [dependency] Library dependencies:
@@ -17887,10 +17651,206 @@ identical ../css/app.css
 [INF] [shellscript] debug:
 [INF] [shellscript] 
 [INF] [shellscript] BUILD SUCCESSFUL
-[INF] [shellscript] Total time: 3 seconds
-[INF] [shellscript] WARNING : No target specified, deploying to emulator '''emulator-5554'''.
-[INF] [shellscript] Installing app on emulator...
+[INF] [shellscript] Total time: 4 seconds
+[INF] [shellscript] [phonegap] successfully compiled Android app
+[INF] [shellscript] [phonegap] trying to install app onto device
+[INF] [shellscript] cp: no such file or directory: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\icon.png
+[INF] [shellscript] 
+[INF] [shellscript] cp: no such file or directory: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\res\icon\ios\icon-72.png
+[INF] [shellscript] 
+[INF] [shellscript] Buildfile: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\build.xml
+[INF] [shellscript] 
+[INF] [shellscript] -set-mode-check:
+[INF] [shellscript] 
+[INF] [shellscript] -set-debug-files:
+[INF] [shellscript] 
+[INF] [shellscript] -check-env:
+[INF] [shellscript]  [checkenv] Android SDK Tools Revision 23.0.2
+[INF] [shellscript]  [checkenv] Installed at C:\Users\Hemant\Desktop\androidsdk\sdk
+[INF] [shellscript] 
+[INF] [shellscript] -setup:
+[INF] [shellscript]      [echo] Project Name: tripgang
+[INF] [shellscript]   [gettype] Project Type: Application
+[INF] [shellscript] 
+[INF] [shellscript] -set-debug-mode:
+[INF] [shellscript] 
+[INF] [shellscript] -debug-obfuscation-check:
+[INF] [shellscript] 
+[INF] [shellscript] -pre-build:
+[INF] [shellscript] 
+[INF] [shellscript] -build-setup:
+[INF] [shellscript] [getbuildtools] Using latest Build Tools: 20.0.0
+[INF] [shellscript]      [echo] Resolving Build Target for tripgang...
+[INF] [shellscript] [gettarget] Project Target:   Android 4.4.2
+[INF] [shellscript] [gettarget] API level:        19
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Creating output directories if needed...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Resolving Dependencies for tripgang...
+[INF] [shellscript] [dependency] Library dependencies:
+[INF] [shellscript] [dependency] 
+[INF] [shellscript] [dependency] ------------------
+[INF] [shellscript] [dependency] Ordered libraries:
+[INF] [shellscript] [dependency] 
+[INF] [shellscript] [dependency] ------------------
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Building Libraries with '''debug'''...
+[INF] [shellscript] 
+[INF] [shellscript] nodeps:
+[INF] [shellscript] 
+[INF] [shellscript] -set-mode-check:
+[INF] [shellscript] 
+[INF] [shellscript] -set-debug-files:
+[INF] [shellscript] 
+[INF] [shellscript] -check-env:
+[INF] [shellscript]  [checkenv] Android SDK Tools Revision 23.0.2
+[INF] [shellscript]  [checkenv] Installed at C:\Users\Hemant\Desktop\androidsdk\sdk
+[INF] [shellscript] 
+[INF] [shellscript] -setup:
+[INF] [shellscript]      [echo] Project Name: CordovaLib
+[INF] [shellscript]   [gettype] Project Type: Android Library
+[INF] [shellscript] 
+[INF] [shellscript] -set-debug-mode:
+[INF] [shellscript] 
+[INF] [shellscript] -debug-obfuscation-check:
+[INF] [shellscript] 
+[INF] [shellscript] -pre-build:
+[INF] [shellscript] 
+[INF] [shellscript] -build-setup:
+[INF] [shellscript] [getbuildtools] Using latest Build Tools: 20.0.0
+[INF] [shellscript]      [echo] Resolving Build Target for CordovaLib...
+[INF] [shellscript] [gettarget] Project Target:   Android 4.4.2
+[INF] [shellscript] [gettarget] API level:        19
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Creating output directories if needed...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Resolving Dependencies for CordovaLib...
+[INF] [shellscript] [dependency] Library dependencies:
+[INF] [shellscript] [dependency] No Libraries
+[INF] [shellscript] [dependency] 
+[INF] [shellscript] [dependency] ------------------
+[INF] [shellscript] 
+[INF] [shellscript] -code-gen:
+[INF] [shellscript] [mergemanifest] Found Deleted Target File
+[INF] [shellscript] [mergemanifest] Merging AndroidManifest files into one.
+[INF] [shellscript] [mergemanifest] Manifest merger disabled. Using project manifest only.
+[INF] [shellscript]      [echo] Handling aidl files...
+[INF] [shellscript]      [aidl] No AIDL files to compile.
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling RenderScript files...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling Resources...
+[INF] [shellscript]      [aapt] Found new input file
+[INF] [shellscript]      [aapt] Generating resource IDs...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling BuildConfig class...
+[INF] [shellscript] [buildconfig] No need to generate new BuildConfig.
+[INF] [shellscript] 
+[INF] [shellscript] -pre-compile:
+[INF] [shellscript] 
+[INF] [shellscript] -compile:
+[INF] [shellscript]      [echo] Creating library output jar file...
+[INF] [shellscript] 
+[INF] [shellscript] -post-compile:
+[INF] [shellscript] 
+[INF] [shellscript] -obfuscate:
+[INF] [shellscript] 
+[INF] [shellscript] -dex:
+[INF] [shellscript]      [echo] Library project: do not convert bytecode...
+[INF] [shellscript] 
+[INF] [shellscript] -crunch:
+[INF] [shellscript]    [crunch] Crunching PNG Files in source dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\res
+[INF] [shellscript]    [crunch] To destination dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\res
+[INF] [shellscript]    [crunch] Crunched 0 PNG files to update cache
+[INF] [shellscript] 
+[INF] [shellscript] -package-resources:
+[INF] [shellscript]      [echo] Library project: do not package resources...
+[INF] [shellscript] 
+[INF] [shellscript] -package:
+[INF] [shellscript]      [echo] Library project: do not package apk...
+[INF] [shellscript] 
+[INF] [shellscript] -post-package:
+[INF] [shellscript] 
+[INF] [shellscript] -do-debug:
+[INF] [shellscript]      [echo] Library project: do not create apk...
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\build.prop
+[INF] [shellscript] 
+[INF] [shellscript] -post-build:
+[INF] [shellscript] 
+[INF] [shellscript] debug:
+[INF] [shellscript] 
+[INF] [shellscript] -code-gen:
+[INF] [shellscript] [mergemanifest] Found Deleted Target File
+[INF] [shellscript] [mergemanifest] Merging AndroidManifest files into one.
+[INF] [shellscript] [mergemanifest] Manifest merger disabled. Using project manifest only.
+[INF] [shellscript]      [echo] Handling aidl files...
+[INF] [shellscript]      [aidl] No AIDL files to compile.
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling RenderScript files...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling Resources...
+[INF] [shellscript]      [aapt] Found Deleted Target File
+[INF] [shellscript]      [aapt] Generating resource IDs...
+[INF] [shellscript]      [echo] ----------
+[INF] [shellscript]      [echo] Handling BuildConfig class...
+[INF] [shellscript] [buildconfig] No need to generate new BuildConfig.
+[INF] [shellscript] 
+[INF] [shellscript] -pre-compile:
+[INF] [shellscript]      [echo] Set jars path to: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
+[INF] [shellscript] 
+[INF] [shellscript] -compile:
+[INF] [shellscript]     [javac] Compiling 2 source files to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes
+[INF] [shellscript] 
+[INF] [shellscript] -post-compile:
+[INF] [shellscript] 
+[INF] [shellscript] -obfuscate:
+[INF] [shellscript] 
+[INF] [shellscript] -dex:
+[INF] [shellscript]       [dex] input: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes
+[INF] [shellscript]       [dex] input: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
+[INF] [shellscript]       [dex] Using Pre-Dexed classes-f2b3c2a879a47fa36da6cadbad011dfe.jar <- C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build\classes.jar
+[INF] [shellscript]       [dex] Found Deleted Target File
+[INF] [shellscript]       [dex] Converting compiled files and external libraries into C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\classes.dex...
+[INF] [shellscript]        [dx] Merged dex A (7 defs/2.2KiB) with dex B (207 defs/313.9KiB). Result is 214 defs/385.0KiB. Took 0.2s
+[INF] [shellscript] 
+[INF] [shellscript] -crunch:
+[INF] [shellscript]    [crunch] Crunching PNG Files in source dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\res
+[INF] [shellscript]    [crunch] To destination dir: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\res
+[INF] [shellscript]    [crunch] Crunched 0 PNG files to update cache
+[INF] [shellscript] 
+[INF] [shellscript] -package-resources:
+[INF] [shellscript]      [aapt] Found Deleted Target File
+[INF] [shellscript]      [aapt] Creating full resource package...
+[INF] [shellscript]      [aapt]     (skipping file '''.pgbomit''' due to ANDROID_AAPT_IGNORE pattern '''.*''')
+[INF] [shellscript] 
+[INF] [shellscript] -package:
+[INF] [shellscript] [apkbuilder] Found Deleted Target File
+[INF] [shellscript] [apkbuilder] Creating tripgang-debug-unaligned.apk and signing it with a debug key...
+[INF] [shellscript] 
+[INF] [shellscript] -post-package:
+[INF] [shellscript] 
+[INF] [shellscript] -do-debug:
+[INF] [shellscript]  [zipalign] Running zip align on final apk...
+[INF] [shellscript]      [echo] Debug Package: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\tripgang-debug.apk
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
+[INF] [shellscript] [propertyfile] Updating property file: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\build.prop
+[INF] [shellscript] 
+[INF] [shellscript] -post-build:
+[INF] [shellscript]      [move] Moving 1 file to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build
+[INF] [shellscript]      [move] Moving 1 file to C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\CordovaLib\ant-build
+[INF] [shellscript] 
+[INF] [shellscript] debug:
+[INF] [shellscript] 
+[INF] [shellscript] BUILD SUCCESSFUL
+[INF] [shellscript] Total time: 5 seconds
+[INF] [shellscript] WARNING : No target specified, deploying to device '''02b2519208e41127'''.
 [INF] [shellscript] Using apk: C:\Program Files\Dataguise\DgSecure\tomcat6\webapps\tripgangUI\phonegap\platforms\android\ant-build\tripgang-debug-unaligned.apk
+[INF] [shellscript] Installing app on device...
 [INF] [shellscript] Launching application...
 [INF] [shellscript] LAUNCH SUCCESS
 [INF] 
