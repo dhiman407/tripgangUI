@@ -667,7 +667,19 @@ Ext.ClassManager.addNameAlternateMappings({
   "Ext.viewport.WindowsPhone": [
     "Ext.viewport.WP"
   ],
-  "tripgang.view.Main": []
+  "tripgang.controller.Trip": [],
+  "tripgang.model.LocSuggestList": [],
+  "tripgang.model.PastTrip": [],
+  "tripgang.model.TripType": [],
+  "tripgang.store.LocSuggestLists": [],
+  "tripgang.store.PastTrips": [],
+  "tripgang.store.TripTypes": [],
+  "tripgang.view.CreateTrip.TripLocSuggestList": [],
+  "tripgang.view.CreateTrip.TripLocation": [],
+  "tripgang.view.CreateTrip.TripType": [],
+  "tripgang.view.Main": [],
+  "tripgang.view.login.LoginMain": [],
+  "tripgang.view.pastTrips.PastTrip": []
 });
 Ext.ClassManager.addNameAliasMappings({
   "Ext.AbstractComponent": [],
@@ -1386,8 +1398,30 @@ Ext.ClassManager.addNameAliasMappings({
   "Ext.viewport.Ios": [],
   "Ext.viewport.Viewport": [],
   "Ext.viewport.WindowsPhone": [],
+  "tripgang.controller.Trip": [],
+  "tripgang.model.LocSuggestList": [],
+  "tripgang.model.PastTrip": [],
+  "tripgang.model.TripType": [],
+  "tripgang.store.LocSuggestLists": [],
+  "tripgang.store.PastTrips": [],
+  "tripgang.store.TripTypes": [],
+  "tripgang.view.CreateTrip.TripLocSuggestList": [
+    "widget.locSuggestList"
+  ],
+  "tripgang.view.CreateTrip.TripLocation": [
+    "widget.tripLocation"
+  ],
+  "tripgang.view.CreateTrip.TripType": [
+    "widget.tripType"
+  ],
   "tripgang.view.Main": [
     "widget.main"
+  ],
+  "tripgang.view.login.LoginMain": [
+    "widget.loginmain"
+  ],
+  "tripgang.view.pastTrips.PastTrip": [
+    "widget.pastTrip"
   ]
 });
 

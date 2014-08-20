@@ -56,6 +56,7 @@ Ext.application({
 
     launch: function() {
         // Destroy the #appLoadingIndicator element
+
         Ext.fly('appLoadingIndicator').destroy();
 
         // Initialize the main view

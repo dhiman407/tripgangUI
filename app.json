@@ -72,6 +72,9 @@
      */
     "css": [
         {
+            "path": "stylesheets/style.css",
+            "update": "delta"
+        },{
             "path": "resources/css/app.css",
             "update": "delta"
         },{
@@ -108,6 +111,7 @@
      * Extra resources to be copied along when build
      */
     "resources": [
+		"config.xml",
         "resources/images",
         "resources/icons",
         "resources/startup"

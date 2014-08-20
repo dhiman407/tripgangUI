@@ -6,10 +6,10 @@ Ext.define('tripgang.store.TripTypes', {
 		autoLoad:true,
         proxy: {
             type: 'ajax',
-            url: TG.global.baseURL + 'data/trip_types.json',
+            url: TG.baseUrl + '/data/trip_types.json',
 			reader: {
 				type: 'json',
-				rootProperty: 'results'
+				rootProperty: 'upComingTrips'
 			}
         }
     }

@@ -6,7 +6,7 @@ Ext.define('tripgang.store.LocSuggestLists', {
 		autoLoad:true,
         proxy: {
             type: 'ajax',
-            url: TG.global.baseURL + 'data/suggestList.json',
+            url: TG.baseUrl + '/data/suggestList.json',
 			reader: {
 				type: 'json'
 		

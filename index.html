@@ -3,6 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <title>tripgang</title>
+    <script type="text/javascript">
+        var TG = {};
+        TG.protocol = "https://";
+        TG.baseUrl = TG.protocol + "raw.githubusercontent.com/dhiman407/tripgangUI/master"
+    </script>
     <style type="text/css">
          /**
          * Example of an initial loading indicator.
@@ -52,10 +57,10 @@
     <!-- The line below must be kept intact for Sencha Command to build your application -->
 	<link rel="stylesheet" type="text/css" href="stylesheets/style.css">
     <script id="microloader" type="text/javascript" src=".sencha/app/microloader/development.js"></script>
-	<script type="text/javascript" src="externalJavaScript/global.js"></script>
 	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?libraries=places"></script>
 </head>
 <body>
+
     <div id="appLoadingIndicator">
         <div></div>
         <div></div>

@@ -6,7 +6,7 @@ Ext.define('tripgang.store.PastTrips', {
 		autoLoad:true,
         proxy: {
             type: 'ajax',
-            url: TG.global.baseURL + 'data/pastTrip.json',
+            url: TG.baseUrl + "data/pastTrip.json",
 			reader: {
 				type: 'json',
 				rootProperty: 'pastTrips'
