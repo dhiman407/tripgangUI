@@ -6,10 +6,10 @@ Ext.define('tripgang.view.Main', {
         'Ext.TitleBar',
         'tripgang.view.CreateTrip.TripType',
 		'tripgang.view.CreateTrip.TripLocation',
-		 'Ext.dataview.List'
+		'Ext.dataview.List'
     ],
     config: {
-		 layout: {
+        layout: {
             type: 'card',
             animation: {
                 duration: 300,
@@ -21,16 +21,16 @@ Ext.define('tripgang.view.Main', {
 		fullscreen:true,
 
         items: [
-             {
-                    docked: 'top',
-                    xtype: 'titlebar',
-                    title: 'Tripgang',
-					titleAlign:'left'
-                },{
-					xtype:'tripType'
-				},{
-					xtype:'tripLocation'
-				}
+            {
+                docked: 'top',
+                xtype: 'titlebar',
+                title: 'Tripgang',
+				titleAlign:'left'
+            },{
+				xtype:'tripType'
+			},{
+				xtype:'tripLocation'
+			}
         ]
     }
 	

@@ -9,7 +9,7 @@ Ext.define('tripgang.store.TripTypes', {
             url: TG.baseUrl + '/data/trip_types.json',
 			reader: {
 				type: 'json',
-				rootProperty: 'upComingTrips'
+				rootProperty: 'results'
 			}
         }
     }
