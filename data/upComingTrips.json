@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "upComingTrips": [
+        {
+            "name": "Yosemite",
+            "members": [],
+            "StartDate": "5/2/2015"
+        },
+        {
+            "name": "Tahoe",
+            "members": [],
+            "StartDate": "2/2/2015"
+        },
+        {
+            "name": "Crator",
+            "members": [],
+            "StartDate": "7/2/2015"
+        }
+    ]
+}
