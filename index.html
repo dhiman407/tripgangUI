@@ -5,8 +5,19 @@
     <title>tripgang</title>
     <script type="text/javascript">
         var TG = {};
-        TG.protocol = "https://";
-        TG.baseUrl = TG.protocol + "raw.githubusercontent.com/dhiman407/tripgangUI/master"
+        if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry|IEMobile)/)) {
+            TG.isPhoneGap = true;
+        } else {
+            TG.isPhoneGap = false;
+        }
+
+        if(TG.isPhoneGap) {
+            TG.protocol = "https://";
+            TG.baseUrl = TG.protocol + "raw.githubusercontent.com/dhiman407/tripgangUI/master";
+        } else {
+            TG.protocol = window.location.protocol + "//";
+            TG.baseUrl = TG.protocol + window.location.host;
+        }
     </script>
     <style type="text/css">
          /**
