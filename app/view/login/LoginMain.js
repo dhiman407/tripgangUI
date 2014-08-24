@@ -20,8 +20,7 @@ Ext.define('tripgang.view.login.LoginMain', {
 					titleAlign:'left'
                 },
 		{
-			xtype:'button',
-			text:'facebook',
+			xtype:'container',
 			itemId:'facebookLogin',
 			width:300,
 			flex:1

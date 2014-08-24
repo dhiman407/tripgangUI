@@ -29,7 +29,8 @@ Ext.application({
 		'CreateTrip.TripLocSuggestList'
     ],
 	controllers:[
-		'Trip'
+		'Trip',
+        'Facebook'
 	],
 	stores:[
 		'TripTypes',
@@ -57,10 +58,15 @@ Ext.application({
     launch: function() {
         // Destroy the #appLoadingIndicator element
 
+        this.facebookAppId = '278684649003421';
         Ext.fly('appLoadingIndicator').destroy();
+        this.redirectUrl = Ext.Object.toQueryString({
+            redirect_uri: window.location.protocol + "//" + window.location.host + window.location.pathname,
+            client_id: tripgang.app.facebookAppId
+        });
 
         // Initialize the main view
-        Ext.Viewport.add(Ext.create('tripgang.view.Main'));
+        Ext.Viewport.add(Ext.create('tripgang.view.login.LoginMain'));
     },
 
     onUpdated: function() {
