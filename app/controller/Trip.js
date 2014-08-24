@@ -1,14 +1,14 @@
 Ext.define('tripgang.controller.Trip',{
 	extend:'Ext.app.Controller',
-	config:{
-		refs:{
+	config: {
+		refs: {
 			mainScreen:'main',
 			suggestList:'locSuggestList',
 			tripContainer:'tripLocation'
 		},
-		control:{
-			tripType:{
-				itemtap:'onTripTypeTap'
+		control: {
+			'#trip-type': { 
+				itemtap: 'onTripTypeTap'
 			},
 			'tripLocation #location_search_txt':{
 				keyup:'searchLocations'
@@ -16,58 +16,35 @@ Ext.define('tripgang.controller.Trip',{
 			'loginmain #facebookLogin':{
 				tap:'onFacebookLogin'
 			}
+		},
+		routes: {
+			'create-trip/types': 'displayTripTypesView',
+			'create-trip/select-trip-location': 'displaySelectTripLocationView',
 		}
 	},
 	
-	onTripTypeTap:function(list,idx,target,record,e,eOpts){
-		this.getMainScreen().setActiveItem(2);
+	//---- TripTypes Screen or Step 1 --------
+	displayTripTypesView: function() {
+		this.getMainScreen().push({
+			xtype: "tripType"
+		});
 	},
 
-	onFacebookLogin:function(){
-		return true;
-		var that = this;	
-		this.checkLoginState();
+	onTripTypeTap:function(list, idx, target, record, e, eOpts) {
+		console.log(arguments);
+		var me = this;
+		setTimeout(function(){
+			me.redirectTo("create-trip/select-trip-location");
+		}, 0);
 	},
-	
-	  statusChangeCallback:function (response) {
-	    console.log('statusChangeCallback');
-	    console.log(response);
-	    // The response object is returned with a status field that lets the
-	    // app know the current login status of the person.
-	    // Full docs on the response object can be found in the documentation
-	    // for FB.getLoginStatus().
-	    if (response.status === 'connected') {
-	      // Logged into your app and Facebook.
-	      this.testAPI();
-	    } else if (response.status === 'not_authorized') {
-	      // The person is logged into Facebook, but not your app.
-	      document.getElementById('status').innerHTML = 'Please log ' +
-	        'into this app.';
-	    } else {
-	      // The person is not logged into Facebook, so we're not sure if
-	      // they are logged into this app or not.
-	      document.getElementById('status').innerHTML = 'Please log ' +
-	        'into Facebook.';
-	    }
- 	 },
 
-  // This function is called when someone finishes with the Login
-  // Button.  See the onlogin handler attached to it in the sample
-  // code below.
-  	checkLoginState:function () {
-		var that = this;
-	    FB.getLoginStatus(function(response) {
-	      that.statusChangeCallback(response);
-	    });
-  	},
-	
-	testAPI: function() {
-	    console.log('Welcome!  Fetching your information.... ');
-	    FB.api('/me', function(response) {
-	      console.log('Successful login for: ' + response.name);
-	    });
-  	},
-	
+	//---- Search Locations Screen or Step 2 --------
+	displaySelectTripLocationView: function(latitude, longitude) {
+		this.getMainScreen().push({
+			xtype: "select-trip-location"
+		});
+	},
+
 	searchLocations:function(txt, newVal, oldVal){
 		var that = this;
 		var task = Ext.create('Ext.util.DelayedTask', function () {

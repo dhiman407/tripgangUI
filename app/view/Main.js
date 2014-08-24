@@ -1,36 +1,19 @@
 Ext.define('tripgang.view.Main', {
-    extend: 'Ext.Panel',
+    extend: 'Ext.navigation.View',
     xtype: 'main',
-	itemId:'mainScreen',
     requires: [
-        'Ext.TitleBar',
         'tripgang.view.CreateTrip.TripType',
-		'tripgang.view.CreateTrip.TripLocation',
-		'Ext.dataview.List'
+		'tripgang.view.CreateTrip.SelectTripLocation',
     ],
     config: {
-        layout: {
-            type: 'card',
-            animation: {
-                duration: 300,
-                easing: 'ease-in-out',
-                type: 'slide',
-                direction: 'left'
-            }
-        },
-		fullscreen:true,
+        itemId:'mainScreen',
+		fullscreen: true,
+        activeItem: 0,
 
         items: [
             {
-                docked: 'top',
-                xtype: 'titlebar',
-                title: 'Tripgang',
-				titleAlign:'left'
-            },{
-				xtype:'tripType'
-			},{
-				xtype:'tripLocation'
-			}
+                xtype:'tripType'
+            }
         ]
     }
 	

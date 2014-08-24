@@ -1,8 +1,9 @@
 Ext.define('tripgang.view.CreateTrip.TripType', {
     extend: 'Ext.dataview.DataView',
     xtype: 'tripType',
-	id:'tripsList',
     config: {
+        id:'trip-type',
+        title: 'Type of trip',
 		store: 'TripTypes',
         emptyText: 'Loading list of Type of Trips...',
         itemTpl: [

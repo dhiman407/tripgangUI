@@ -25,7 +25,7 @@ Ext.application({
     views: [
         'Main',
 		'CreateTrip.TripType',
-		'CreateTrip.TripLocation',
+		'CreateTrip.SelectTripLocation',
 		'CreateTrip.TripLocSuggestList'
     ],
 	controllers:[
